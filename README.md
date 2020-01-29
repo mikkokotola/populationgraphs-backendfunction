@@ -7,7 +7,7 @@ One instance of backend is deployed as a cloud function at https://europe-west1-
 ## Frontend
 Source for frontend is at https://github.com/mikkokotola/populationgraphs.
 
-One instance of frontend is deployed at xxx.
+One instance of frontend is deployed at https://world-bank-data.appspot.com.
 
 ## REST API endpoints
 The calls to the REST API are of the format https://europe-west1-world-bank-data.cloudfunctions.net/world-bank-fetcher/country/:countryCode/indicator/:indicatorCode.
