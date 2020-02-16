@@ -1,8 +1,8 @@
 # Population graphs - backend cloud function
-Backend cloud function that fetches and serves World Bank population data in JSON format.
+Backend cloud function that fetches and serves World Bank population data in JSON format. NOTE: not currently needed for the Population graphs app as World Bank API can be called directly. 
 
 ## Deployed version
-One instance of backend is deployed as a cloud function at https://europe-west1-world-bank-data.cloudfunctions.net/world-bank-fetcher/.
+Not currently deployed.
 
 ## Frontend
 Source for frontend is at https://github.com/mikkokotola/populationgraphs.
